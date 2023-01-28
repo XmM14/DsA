@@ -1,0 +1,18 @@
+WHAT IS AN ALGORITHM?
+
+In general an algorithm is a few well-defined instructions to solve a problem. In computer programming, an algorithm is a set of well-defined instructions which takes a set of inputs and produces the expected output.
+An algorithm to add two numbers:
+Take two number inputs
+Add numbers using the + operator
+Display the result
+
+Qualities of good algorithm :
+
+Input and output should be detailed aright.
+Each step must be transparent for others.
+Algorithms should be most effective among other solution to this problem.
+An algorithm should be written in a way that it can be used in different programming languages, not for any specific programming language.
+
+Written by Wasef Zemam
+110downingstreet@gmail.com
+Noakhali, Bangladesh
