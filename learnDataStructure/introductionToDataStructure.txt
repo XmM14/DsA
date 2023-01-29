@@ -1,0 +1,49 @@
+What are Data Structures?
+------------------------------------------
+Data structure is a storage lika a shelf where we store data in an organized way so that it can be manipulated efficiently. We choose different data structures depending on our projects requirement.
+
+Types of Data Structure :
+
+1) Linear data structure
+2) Non-linear data structure
+	Graph
+	Tree
+
+Linear data structures
+-----------------------------------
+In linear data structures, the elements are stored in a particular order.
+
+Popular linear data structures are :
+
+Array
+Stack
+Queue
+Linked list
+
+Non-linear data structures
+------------------------------------------
+In non-linear data structures, the elements are not stored in a particular order.Instead they are arranged in a hierarchical manner where each element can be connected with other. They are further partitioned into graph based data structure and tree based data structure.
+
+Popular Graph based data structures are :
+
+Spanning Tree and Minimum Spanning Tree
+Strongly Connected Components
+Adjacency Matrix
+Adjacency List
+
+Popular tree based data structures are :
+Binary Tree
+Binary Search Tree
+B+ Tree
+B-Tree
+Red-Black Tree
+AVL Tree
+
+Why we use Data Structure?
+---------------------------------------------
+We implement data structure so that we can access and update our data more easily. Think, if we arrange our book in a book self with a good structure then it would be so efficient for us to get the desired book when we want it. Beside, Data structure helps us to write memory and time efficient code.
+
+Learn Frorm Wikipidia! Learn more Frorm Programiz!
+Written by Wasef Zemam
+110downingstreet@gmail.com
+Noakhali, Bangladesh
